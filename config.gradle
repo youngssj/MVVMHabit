@@ -55,8 +55,8 @@ ext {
             "bindingcollectionadapter-recyclerview": "me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0",
             "bindingcollectionadapter-viewpager2"  : "me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-viewpager2:2.2.0",
             //Google AAC
-            "lifecycle-extensions"                 : "androidx.lifecycle:lifecycle-extensions:2.0.0",
-            "lifecycle-compiler"                   : "androidx.lifecycle:lifecycle-compiler:2.0.0",
+            "lifecycle-extensions"                 : "androidx.lifecycle:lifecycle-extensions:2.8.7",
+            "lifecycle-compiler"                   : "androidx.lifecycle:lifecycle-compiler:2.8.7",
             //MVVMHabit
             "MVVMHabit"                            : "com.github.goldze:MVVMHabit:4.0.0",
     ]
